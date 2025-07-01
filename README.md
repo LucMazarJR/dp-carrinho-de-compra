@@ -1,6 +1,6 @@
 # 🛒 Desafio Carrinho de Compras (JS Modular)
 
-Este projeto simula um carrinho de compras simples utilizando JavaScript com foco em **lógica de programação**, **modularização** e **organização de código**.
+Este projeto simula um carrinho de compras simples utilizando JavaScript com foco em **lógica de programação**, **modularização** e **organização de código** feito para o desafio de projeto "Carrinho de compras Shopee com Node.js" da DIO no bootcap de Mobile Developer.
 
 ## 🚀 Objetivo do Desafio
 
